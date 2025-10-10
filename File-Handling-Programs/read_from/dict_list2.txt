@@ -1,0 +1,1 @@
+{'Name': 'Sravan', 'Salary': 48000, 'age': 23}{'Name': 'Raghu', 'Salary': 25000, 'age': 21}{'Name': 'Ram', 'Salary': 21000, 'age': 23}{'Name': 'Shivani', 'Salary': 148000, 'age': 31}{'Name': 'Salma', 'Salary': 41000, 'age': 22}
